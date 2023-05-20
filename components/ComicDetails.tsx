@@ -23,7 +23,7 @@ export default function ComicDetails({ route, navigation }: ComicDetailsScreenPr
     <View style={styles.container}>
       <Image style={styles.image} source={{ uri: comic.img }} />
       <Text style={styles.text}>
-        Number: {parseInt(JSON.stringify(comicId))}
+        Number: {comic.num}
       </Text>
       <Text style={styles.text}>
         Date: {comic.day}/{comic.month}/{comic.year}
