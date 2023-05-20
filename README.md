@@ -2,7 +2,7 @@
 
 ## :dart: About ##
 
-Project displays latest comics from: https://xkcd.com/info.0.json
+Project displays latest comics from: https://xkcd.com/json.html
 
 ## :rocket: Technologies ##
 
